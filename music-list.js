@@ -45,13 +45,13 @@ let allMusic = [
     name: "Mutuale",
     artist: "Bruce Melody ft Nel Ngabo",
     img: "mutuale",
-    src: "Mutuale Nel Ngabo ft Bruce Melody"
+    src: "Mutuale Nel Ngabo ft Bruce Melodie"
   },
   {
     name: "Comoka",
     artist: "Domi TND",
     img: "kennysol",
-    src: "domi_-_comoka"
+    src: "Domi_-_Comoka"
   },
   {
     name: "Shumuleta",
